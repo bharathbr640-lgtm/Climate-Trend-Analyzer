@@ -218,6 +218,7 @@ This project can be enhanced by:
 * Data visualization
 * Real-world data challenges
 
+Note: The dataset is not included due to size limitations. Please download it manually and place it in data/raw/.
 ---
 
 ## 💼 Interview Explanation
