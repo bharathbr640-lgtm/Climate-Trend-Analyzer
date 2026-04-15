@@ -208,6 +208,20 @@ This project can be enhanced by:
 * Real-time forecasting system
 
 ---
+## 📊 Visualizations
+
+### Bombay (Mumbai)
+![Bombay Trend](outputs/graphs/Bombay_Mumbai_trend.png)
+
+### Calcutta
+![Calcutta Trend](outputs/graphs/Calcutta_trend.png)
+
+### Chennai (Madras)
+![Chennai Trend](outputs/graphs/Chennai_Madras_trend.png)
+
+### Delhi
+![Delhi Trend](outputs/graphs/Delhi_trend.png)
+
 
 ## 🧠 Learning Outcomes
 
